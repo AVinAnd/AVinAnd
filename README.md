@@ -1,5 +1,9 @@
 <div id="header" align="center">
-  <h1>Hi there👋, I'm Andrey</h1>
+  <h1>
+    Hello there
+    <img src="https://cdn3.emoji.gg/emojis/6991_blue_lightsaber.png" width="48px" height="48px" alt="blue_lightsaber">, 
+    I'm Andrey
+  </h1>
   <h3>Python backend developer</h3>
   <a href="https://t.me/Vinand96">
     <img src=https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=Telegram alt="Telegram">
